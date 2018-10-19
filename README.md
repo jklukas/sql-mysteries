@@ -2,6 +2,12 @@
 
 Window functions, Explain Plans, and Distributed Data
 
+## Iterations
+
+This talk has been presented at:
+
+- 2018-10-27 @ [Columbus Code Camp](http://columbuscodecamp.com/presentations.html)
+
 ## Viewing content
 
 This repo collects some Jupyter notebooks used for teaching.
